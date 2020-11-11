@@ -20,8 +20,8 @@ public class SomandoValores {
 
 	public static void main(String[] args) {
 
-		int valor1 = 1;
-		int valor2 = 4;
+		int valor1 = 5;
+		int valor2 = 7;
 		boolean eMaior = false;
 
 		int soma = valor1 + valor2;
@@ -38,7 +38,6 @@ public class SomandoValores {
 			soma = soma - 5;
 			// soma -=5;
 		}
-		System.out.println(("" + valor1).concat(" + " + valor2).concat(" = " + soma));
-
+		System.out.println("Ocorreu um ajuste no valor da soma já que o valor 1 < valor 2");
 	}
 }
