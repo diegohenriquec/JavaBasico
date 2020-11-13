@@ -2,7 +2,6 @@ package br.com.aulajava;
 
 public class Calculadora {
     
-    public static void main(String[] args) {
 
     static int valorPadraoMultiplicacao = 2;
     // float eu consigo atribuir valor inteiro

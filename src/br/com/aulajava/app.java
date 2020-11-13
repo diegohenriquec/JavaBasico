@@ -1,6 +1,6 @@
 package br.com.aulajava;
 
-public class app {
+public class App {
 
     public static void
 }
